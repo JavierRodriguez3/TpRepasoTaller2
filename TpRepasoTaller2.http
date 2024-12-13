@@ -1,0 +1,6 @@
+@TpRepasoTaller2_HostAddress = http://localhost:5160
+
+GET {{TpRepasoTaller2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
